@@ -1,0 +1,23 @@
+{
+  "name": "nodebots",
+  "version": "0.0.1",
+  "description": "My NodeBots Code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drmyersii/nodebots.git"
+  },
+  "author": "David R. Myers II - @drmyersii",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drmyersii/nodebots/issues"
+  },
+  "homepage": "https://github.com/drmyersii/nodebots#readme",
+  "dependencies": {
+    "johnny-five": "^0.9.17",
+    "particle-io": "^0.12.0"
+  }
+}
